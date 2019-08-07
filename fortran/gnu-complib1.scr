@@ -1,0 +1,4 @@
+gfortran -O3 -c mpmodule.f90 mpfuna.f90 mpfunbq.f90 mpfunc.f90 \
+  mpfund.f90 mpfune.f90 mpfunf.f90 mpfungq1.f90 second.f90
+gfortran -O3 -c mpmodule.f90 mpfuna.f90 mpfunbq.f90 mpfunc.f90 \
+  mpfund.f90 mpfune.f90 mpfunf.f90 mpfungq1.f90 second.f90

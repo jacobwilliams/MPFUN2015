@@ -1,0 +1,2 @@
+pgf90 -O2 -o $1 $1.f90 mpmodule.o mpfuna.o mpfunb.o mpfunc.o \
+  mpfund.o mpfune.o mpfunf.o mpfung2.o second.o

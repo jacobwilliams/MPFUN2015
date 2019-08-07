@@ -1,0 +1,90 @@
+PSLQM1 Test Program
+No. trials =   1   n =  31   kq = 0
+kr = 5   ks = 6   rb =  1.0000D+02
+Full precision level ndp =   240 digits
+Full precision epsilon level nep =   -220
+
+Start trial  1
+PSLQM1 integer relation detection: n =   31
+Iteration      0   MP initialization
+Iteration      0   Start MP iterations
+Iteration     25
+Iteration     50
+Iteration     75
+Iteration    100
+Iteration    100   Min, max of y =   7.287872e   -53   1.561868e   -50
+Iteration    100   Norm bound =   8.112347e    0    Max. bound =   8.112347e    0
+Iteration    125
+Iteration    150
+Iteration    175
+Iteration    200
+Iteration    200   Min, max of y =   8.574979e   -71   2.191236e   -68
+Iteration    200   Norm bound =   3.695021e    1    Max. bound =   3.695021e    1
+Iteration    225
+Iteration    250
+Iteration    275
+Iteration    300
+Iteration    300   Min, max of y =   1.555055e   -90   5.873913e   -87
+Iteration    300   Norm bound =   1.668310e    2    Max. bound =   1.668310e    2
+Iteration    325
+Iteration    350
+Iteration    375
+Iteration    400
+Iteration    400   Min, max of y =   2.537244e  -109   3.403259e  -107
+Iteration    400   Norm bound =   6.723119e    2    Max. bound =   6.723119e    2
+Iteration    425
+Iteration    450
+Iteration    475
+Iteration    500
+Iteration    500   Min, max of y =   3.371485e  -125   9.282497e  -124
+Iteration    500   Norm bound =   2.480639e    3    Max. bound =   2.480639e    3
+Iteration    525
+Iteration    550
+Iteration    575
+Iteration    600
+Iteration    600   Min, max of y =   1.694906e  -142   2.281159e  -140
+Iteration    600   Norm bound =   8.043868e    3    Max. bound =   8.043868e    3
+Iteration    625
+Iteration    650
+Iteration    675
+Iteration    700
+Iteration    700   Min, max of y =   1.266880e  -159   8.123399e  -158
+Iteration    700   Norm bound =   3.959582e    4    Max. bound =   3.959582e    4
+Iteration    725
+Iteration    750
+Iteration    775
+Iteration    800
+Iteration    800   Min, max of y =   4.217261e  -180   5.466131e  -177
+Iteration    800   Norm bound =   1.316125e    5    Max. bound =   1.316125e    5
+Iteration    825
+Iteration    840   itermp: Small value in y =   7.876276e -244
+Iteration    840   Relation detected
+Min, max of y =   7.876276e -244   2.702007e -183
+Max. bound =   2.376639e    5
+Index of relation =   4   Norm =   6.686125e    5   Residual =   7.876276e -244
+CPU times:
+        0.00       13.32
+
+Recovered relation: 0 =
+                                                           +697. * 1
+                                                          -1440. * al^  1
+                                                         -20520. * al^  2
+                                                         -98280. * al^  3
+                                                        -102060. * al^  4
+                                                          -1458. * al^  5
+                                                            +80. * al^  6
+                                                         -43920. * al^  7
+                                                        +538380. * al^  8
+                                                        -336420. * al^  9
+                                                          +1215. * al^ 10
+                                                            -80. * al^ 12
+                                                         -56160. * al^ 13
+                                                        -135540. * al^ 14
+                                                           -540. * al^ 15
+                                                            +40. * al^ 18
+                                                          -7380. * al^ 19
+                                                           +135. * al^ 20
+                                                            -10. * al^ 24
+                                                            -18. * al^ 25
+                                                             +1. * al^ 30
+CPU Time =     13.3276

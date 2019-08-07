@@ -1,0 +1,2 @@
+xlf90_r -O2 -qnoescape -qextname -o $1 $1.f90 mpmodule.o mpfuna.o mpfunbq.o mpfunc.o \
+  mpfund.o mpfune.o mpfunf.o mpfungq2.o second.o

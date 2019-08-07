@@ -1,0 +1,2 @@
+gfortran -O3 -o $1 $1.f90 mpmodule.o mpfuna.o mpfunbq.o mpfunc.o \
+  mpfund.o mpfune.o mpfunf.o mpfungq1.o second.o

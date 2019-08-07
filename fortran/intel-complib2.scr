@@ -1,0 +1,4 @@
+ifort -fast -fp-model strict -c mpmodule.f90 mpfuna.f90 mpfunbq.f90 mpfunc.f90 \
+  mpfund.f90 mpfune.f90 mpfunf.f90 mpfungq2.f90 second.f90
+ifort -fast -fp-model strict -c mpmodule.f90 mpfuna.f90 mpfunbq.f90 mpfunc.f90 \
+  mpfund.f90 mpfune.f90 mpfunf.f90 mpfungq2.f90 second.f90
