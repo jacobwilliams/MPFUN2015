@@ -4,7 +4,7 @@ AUTHOR:
    David H. Bailey
    Lawrence Berkeley National Lab (retired) and University of California, Davis
    Email: dhbailey@lbl.gov
-   
+
 COPYRIGHT (c) 2017 by David H. Bailey.  All rights reserved.
 
 By downloading this software, you agree to the following:
