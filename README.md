@@ -58,8 +58,11 @@ IV. DOWNLOADING MPFUN-Fort AND MPFUN-MPFR:
 From the website http://www.davidhbailey.com/dhbsoftware, download the file "mpfun-fort-vnn.tar.gz" or "mpfun-mpfr-vnn.tar.gz, whichever version you wish you use (replace "vnn" by whatever is the current version on the MPFUN website, such as "v22"). If the file is not decompressed by your browser, use gunzip at the shell level to do this. Some browsers (such as the Apple OSX Safari browser) do not drop the ".gz" suffix after decompression; if so, remove this suffix manually at the shell level.
 
 Then type
+
   `tar xfv mpfun-fort-vnn.tar`
+
 or
+
   `tar xfv mpfun-mpfr-vnn.tar`
 
 whichever version you are using (where again "vnn" is replaced by whatever is the current version). This should create the directory and unpack all files.
